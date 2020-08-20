@@ -1,5 +1,6 @@
-### Hi there 👋
+### Index
 
+This is my index for DATA 150 Evolving Solutions
 <!--
 **annaeglass/annaeglass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
