@@ -12,6 +12,7 @@ I have a dog named Sophie who is very old and very small. I love hiking, kayakin
 
 ## Article Responses
 [Blumenstock August 25 Response](blumenstock.md)
+
 [Rosling August 27 Response](rosling.md)
 
 
