@@ -1,9 +1,13 @@
 # August 25 Response Human Development/Humbler Data Science
 
 Anna Glass
+
 Professor Frazier
+
 DATA 150-01 Evolving Solutions
+
 25 August 2020
+
 
  The request for humbler data science implies that the contemporary goals of big data, such as the rapid distribution of aid money or the use of digital credit scores, are unattainable. Instead of humbler data science, I call for a more considerate data science. Big data promises a rapid means of distributing aid money, but developers must first consider two factors; local contexts and their susceptibility to data misrepresentation, and the impact of machine error.
   
