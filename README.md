@@ -15,4 +15,4 @@ I have a dog named Sofie who is very old and very small. I love hiking, kayaking
 
 [Rosling August 27 Response](rosling.md)
 
-
+[Rosling and Sen Q&A September 3](roslingqa.md)
