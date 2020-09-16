@@ -1,4 +1,4 @@
-#Human Development & Data Insight: EyeWire
+# Human Development & Data Insight: EyeWire
 Anna Glass
 
 Professor Frazier
