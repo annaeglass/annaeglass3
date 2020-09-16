@@ -1,4 +1,13 @@
-EyeWire Human Development &Data Insight
+#Human Development & Data Insight: EyeWire
+Anna Glass
+
+Professor Frazier
+
+DATA 150-01 Evolving Solutions
+
+17 September, 2020
+
+![](eyewire.jpg)
 
 The human brain contains roughly 80 billion neurons connected by axons and dendrites. The retina consists of three neurons— a photoreceptor, a ganglion cell, and a bipolar cell— yet, the retina is one of the most complex systems in the human body. Knowledge about the inner- and inter-workings of these neurons remains relatively unexplored in neuroscience because of the volume of information required to understand how the brain is wired. To combat this volume of missing information, the Seung Lab of Princeton University created a citizen science platform with which humans can learn to map neurons and retinal cells: EyeWire. 
 
@@ -12,4 +21,4 @@ This wealth of data allows researchers to identify new cell types and synapses. 
 
 With this information, EyeWire aims to identify how humans and other mammals detect motion; this research would improve blindness therapy and the progression of retinal prosthetics. With enough human input, the artificial intelligence embedded into EyeWire can achieve accurate neuronal reconstruction. This research could accelerate identification and treatment for humans with these disorders and improve the quality of life and mental health for any afflicted person. EyeWire fills the gaps in information for neuroscientists aiming to surmount the issues of health and medicine related to the brain. 
 
-![](eyewire.jpg)
+
