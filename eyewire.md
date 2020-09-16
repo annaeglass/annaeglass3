@@ -12,4 +12,4 @@ This wealth of data allows researchers to identify new cell types and synapses. 
 
 With this information, EyeWire aims to identify how humans and other mammals detect motion; this research would improve blindness therapy and the progression of retinal prosthetics. With enough human input, the artificial intelligence embedded into EyeWire can achieve accurate neuronal reconstruction. This research could accelerate identification and treatment for humans with these disorders and improve the quality of life and mental health for any afflicted person. EyeWire fills the gaps in information for neuroscientists aiming to surmount the issues of health and medicine related to the brain. 
 
-[eyewire.jpg]
+![](eyewire.jpg)
