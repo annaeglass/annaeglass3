@@ -18,3 +18,5 @@ I have a dog named Sofie who is very old and very small. I love hiking, kayaking
 [September 3 Rosling and Sen Q&A](roslingqa.md)
 
 [September 17 Human Development & Data Science Insight: Eyewire](eyewire.md)
+
+[September 19 Assignment 1: Housing and Human Development Indicators](assignmentone.pdf)
