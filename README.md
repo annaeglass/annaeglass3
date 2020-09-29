@@ -11,14 +11,14 @@ I have a dog named Sofie who is very old and very small. I love hiking, kayaking
 ![](Wren.jpg)
 
 ## Article Responses
-[Blumenstock August 25 Response](blumenstock.md)
+[August 25: Blumenstock Response](blumenstock.md)
 
-[Rosling August 27 Response](rosling.md)
+[August 27: Rosling Response](rosling.md)
 
-[September 3 Rosling and Sen Q&A](roslingqa.md)
+[September 3: Rosling and Sen Q&A](roslingqa.md)
 
-[September 17 Human Development & Data Science Insight: Eyewire](eyewire.md)
+[September 17: Human Development & Data Science Insight - Eyewire](eyewire.md)
 
-[September 19 Assignment 1: Housing and Human Development Indicators](assignmentone.pdf)
+[September 19: Assignment 1 - Housing and Human Development Indicators](assignmentone.pdf)
 
 [September 29: Chris Anderson & Rob Kitchin Response](kitchinanderson.md)
