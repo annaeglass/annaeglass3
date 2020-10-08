@@ -1,4 +1,4 @@
-# Anna Glass' GitHub Assignment Index
+# Anna Glass' GitHub Index
 
 Hello! My name is Anna Glass and I'm a freshman at William & Mary. I hope to double major in International Relations and Data Science. I have always loved patterns, algorithms, and data, and I am so excited to learn more about the intersection of human development and data science throughout the semester. 
 
@@ -6,7 +6,7 @@ I have a dog named Sofie who is very old and very small. I love hiking, kayaking
 
 ![](wren.png)
 
-## Article Responses
+## Assignments
 [August 25: Blumenstock Response](blumenstock.md)
 
 [August 27: Rosling Response](rosling.md)
