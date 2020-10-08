@@ -4,7 +4,7 @@ Hello! My name is Anna Glass and I'm a freshman at William & Mary. I hope to dou
 
 I have a dog named Sofie who is very old and very small. I love hiking, kayaking, playing guitar, and painting in my free time. On campus I'm involved with the International Relations Club and the Courageous Leadership Institue. I'm looking forward to the rest of the semester! 
 
-![](Wren.jpg)
+![](wren.png)
 
 ## Article Responses
 [August 25: Blumenstock Response](blumenstock.md)
