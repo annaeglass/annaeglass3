@@ -20,3 +20,6 @@ I have a dog named Sofie who is very old and very small. I love hiking, kayaking
 [September 29: Chris Anderson & Rob Kitchin Response](kitchinanderson.md)
 
 [October 15: Human Development & Data Science Insight - Precision Medicine](precision.md)
+
+[October 15: Owen Barder Development & Complexity Response](owenbarder.md)
+
