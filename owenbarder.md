@@ -1,0 +1,6 @@
+## Owen Barder Development & Complexity Response
+
+How does Owen Barder define development? How does he extend Amartya Sen's definition to include the idea of complexity?
+
+Owen Barder expands upon Amartya Sen’s definition of development by first presenting the part of Sen’s definition with which he agrees. Development is the characteristic of enlarging people’s capabilities and freedoms with the ultimate goal of the attainment of a long and healthy life of knowledge and adequate living standards. He elaborates on this development, shifting the definition of development as a characteristic of the political, social, and economic system, not simply the well-being of people within that system. He creates an analogy between Thomas Thwaites’ toaster project and societal institutions to explain that development encompasses not just the individual, but the array of technologies and parts that create a system of wellbeing for the population. Barder also includes a typical definition of development as presented by economists: development is the sum of the effects on individuals and firms in the economy. In this way, Barder includes an economic and institutional lens to Amartya Sen’s definition, which reflects the complexity of development and its relationship with the world outside of the individual level.
+
