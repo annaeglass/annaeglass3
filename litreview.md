@@ -80,4 +80,4 @@ My exploration of improved national census data began with a broader topic of ho
 
 [15] Lloyd, C. T., Chamberlain, H., Kerr, D., Yetman, G., Pistolesi, L., Stevens, F. R., … Tatem, A. J. (2019, June 18). Global spatio-temporally harmonised datasets for producing high-resolution gridded population distribution datasets. Taylor & Francis. https://www.tandfonline.com/doi/full/10.1080/20964471.2019.1625151.
 
-[16] Barder, O. (2012, August 15). The Implications of Complexity for Development. Center For Global Development. https://.cgdev.org/media/implications-complexity-development-owen-barder. 
+[16] Barder, O. (2012, August 15). The Implications of Complexity for Development. Center For Global Development. https://www.cgdev.org/media/implications-complexity-development-owen-barder. 
