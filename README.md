@@ -24,3 +24,5 @@ I have a dog named Sofie who is very old and very small. I love hiking, kayaking
 [October 15: Owen Barder Development & Complexity Response](owenbarder.md)
 
 [October 19: Assignment 2 - Literature Review](litreview.md)
+
+[October 22: Assignment 3 Type of Inquiry](inquiry.md)
