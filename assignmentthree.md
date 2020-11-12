@@ -116,6 +116,6 @@ Garcia’s employment of the gravity-type spatial interaction models represents 
 
 [20] Western, Bruce. “Causal Heterogeneity in Comparative Research: A Bayesian Hierarchical Modelling Approach.” American Journal of Political Science, vol. 42, no. 4, Oct. 1998, pp. 1233–1259., doi:10.2307/2991856. 
 
-[21] Koser, Khalid. “Migration, Displacement and the Arab Spring: Lessons to Learn.” Brookings, Brookings, 28 July 2016, www.brookings.edu/opinions/migration-displacement-and-the-arab-spring-lessons-to-learn/. 
+[21] Koser, Khalid. “Migration, Displacement and the Arab Spring: Lessons to Learn.” Brookings, Brookings, 28 July 2016, www.brookings.edu/opinions/migration-displacement-and-the-arab-spring-lessons-to-learn/.  
 
 [22] Fargues, Philippe. “Mass Migration and Uprisings in Arab Countries: An Analytical Frame...” International Development Policy | Revue Internationale De Politique De Développement, Institut De Hautes Études Internationales Et Du Développement, 1 Jan. 2017, journals.openedition.org/poldev/2275. 
