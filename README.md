@@ -28,3 +28,5 @@ I have a dog named Sofie who is very old and very small. I love hiking, kayaking
 [October 22: Assignment 3 Type of Inquiry](inquiry.md)
 
 [November 5: Human Development & Data Science Knowledge Creation](knowledgecreation.md)
+
+[November 13: Assignment 3 - Methodological Investigation](assignmenthree.md) 
