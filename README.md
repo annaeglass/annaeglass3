@@ -30,3 +30,5 @@ I have a dog named Sofie who is very old and very small. I love hiking, kayaking
 [November 5: Human Development & Data Science Knowledge Creation](knowledgecreation.md)
 
 [November 13: Assignment 3 - Methodological Investigation](assignmentthree.md) 
+
+[November 15: Abstract](abstract.md)
