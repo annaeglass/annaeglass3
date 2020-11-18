@@ -32,3 +32,5 @@ I have a dog named Sofie who is very old and very small. I love hiking, kayaking
 [November 13: Assignment 3 - Methodological Investigation](assignmentthree.md) 
 
 [November 15: Abstract](abstract.md)
+
+[November 18: Final Presebtation](https://docs.google.com/presentation/d/142yoCt-Brr7B4tzgbiNbqfMxHHo14ijZrgkw8JIzj14/edit?usp=sharing)
